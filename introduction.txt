@@ -1,0 +1,5 @@
+I am Tanishka Gautam, currently pursuing a Bachelor of Technology in Computer Science and Engineering at AKGEC, Ghaziabad.
+With a passion for technology and problem-solving, I have worked extensively on developing a dynamic frontend for an e-commerce website. 
+I was also the winner of the SI Dev Challenge, a testament to my dedication and skill in software development. 
+Currently, I am transitioning into backend development to broaden my expertise across the full stack. 
+Additionally, I am an active competitive coder, consistently honing my problem-solving abilities by tackling challenges on platforms like Coding Ninjas.
