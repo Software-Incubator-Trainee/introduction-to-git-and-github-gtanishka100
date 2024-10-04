@@ -3,3 +3,17 @@ With a passion for technology and problem-solving, I have worked extensively on 
 I was also the winner of the SI Dev Challenge, a testament to my dedication and skill in software development. 
 Currently, I am transitioning into backend development to broaden my expertise across the full stack. 
 Additionally, I am an active competitive coder, consistently honing my problem-solving abilities by tackling challenges on platforms like Coding Ninjas.
+
+Skills & Hobbies
+
+Skills:
+
+Proficient in the basics of C, C++, SQL, HTML, and CSS.
+Strong understanding of frontend web development, with experience building responsive e-commerce website.
+Competitive coding enthusiast with hands-on problem-solving skills, regularly practicing on platforms like Coding Ninjas.
+
+Hobbies:
+
+Dancing: A passionate dancer with a love for expression through movement.
+Editing: Skilled in video editing, enjoying the creative process of storytelling through images and clips.
+Swimming: Enjoys swimming as both a recreational activity and a way to stay physically active.
